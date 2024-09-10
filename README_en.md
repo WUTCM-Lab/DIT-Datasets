@@ -1,7 +1,7 @@
 [中文](https://github.com/WUTCM-Lab/DIT-Datasets/blob/main/README.md) | English
 
 ## Cross-Modal Drone Image–Text Retrieval
-The cross-modal drone image–text (DIT) retrieval task aims at using either text or drone images as queries to retrieve relevant drone images or corresponding text. For this task, WUTCM Laboratory established two DIT datasets: [ERA dataset and UDV dataset](https://pan.baidu.com/s/1q93nDKqymEIEX8tcMtMoZQ?pwd=6868)(access code：6868).
+The cross-modal drone image–text (DIT) retrieval task aims at using either text or drone images as queries to retrieve relevant drone images or corresponding text. For this task, WUTCM Laboratory established two DIT datasets: [ERA dataset and UDV dataset](https://pan.baidu.com/s/1q93nDKqymEIEX8tcMtMoZQ?pwd=6868) (access code：6868).
 
 ### ERA-DIT Dataset 
 The ERA-DIT dataset contains 2864 samples from the [ERA dataset](https://lcmou.github.io/ERA_Dataset/), and each image size is 640×640 pixels.
