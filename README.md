@@ -7,6 +7,7 @@ ERA-DIT数据集包含来自[ERA数据集](https://lcmou.github.io/ERA_Dataset/)
 ### UDV-DIT Dataset
 UDV-DIT数据集包含从[VisDrone](https://github.com/VisDrone/VisDrone-Dataset)和 [University-1652](https://github.com/layumi/University1652-Baseline)数据集以及互联网收集的10693个样本。这些样本涵盖了各种城市环境，图像大小各异。
 相关模型：[跨模态无人机图像文本检索的视觉上下文语义推理](https://ieeexplore.ieee.org/abstract/document/10634572)
+
 Huang J, Chen Y, Xiong S, et al. Visual Contextual Semantic Reasoning for Cross-Modal Drone Image-Text Retrieval[J]. IEEE Transactions on Geoscience and Remote Sensing, 2024.
 
 ### 致谢
