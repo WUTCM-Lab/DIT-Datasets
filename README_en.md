@@ -10,6 +10,7 @@ The ERA-DIT dataset contains 2864 samples from the [ERA dataset](https://lcmou.g
 The UDV-DIT dataset contains 10,693 samples collected from the [VisDrone](https://github.com/VisDrone/VisDrone-Dataset) and [University-1652](https://github.com/layumi/University1652-Baseline) datasets and the Internet. These samples cover a variety of urban environments with different image sizes.
 
 Related models: [跨模态无人机图像文本检索的视觉上下文语义推理](https://ieeexplore.ieee.org/abstract/document/10634572)
+
 Huang J, Chen Y, Xiong S, et al. Visual Contextual Semantic Reasoning for Cross-Modal Drone Image-Text Retrieval[J]. IEEE Transactions on Geoscience and Remote Sensing, 2024.
 
 ### Acknowledge
