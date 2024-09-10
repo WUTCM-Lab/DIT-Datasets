@@ -1,4 +1,4 @@
-中文 | [English](https://github.com/linhandev/dataset/blob/main/README_en.md)
+中文 | [English](https://github.com/WUTCM-Lab/DIT-Datasets/blob/main/README_en.md)
 
 ## 跨模态无人机图像文本检索任务
 跨模态无人机图像文本 (DIT) 检索任务旨在使用文本或无人机图像作为查询来检索相关的无人机图像或相应的文本。针对该任务，WUTCM实验室建立两个DIT数据集：ERA数据集和UDV数据集。
